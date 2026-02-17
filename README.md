@@ -91,8 +91,8 @@ Join a few VMs to the domain and rename them to match pre-staged device names to
 
 ## License
 
-Use whatever license fits your project (MIT is common for this type of utility). Add a LICENSE file if you want it explicit.
+GPL-3.0 license
 
 ## Author / Credits
 
-Built for lab and learning use. If you’re publishing this as part of a blog or toolkit, drop your preferred credit line here.
+Built by Derek Wirch for lab and learning use.
